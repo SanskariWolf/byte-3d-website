@@ -42,4 +42,20 @@ export const projectsData = [
       },
     ]
   },
+  {
+    category: 'IOT Projects',
+    projects: [
+      {
+        id: 4,
+        name: 'Project 4',
+        photo: 'https://via.placeholder.com/300',
+        github: 'https://github.com/username/project4',
+        live: 'https://www.project3.com',
+        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+        techStack: 'React, Tailwind CSS, Node.js',
+        contributors: ['Contributor 1', 'Contributor 2'],
+        screenshots: ['https://via.placeholder.com/300', 'https://via.placeholder.com/300']
+      },
+    ]
+  },
 ];
